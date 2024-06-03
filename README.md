@@ -1,6 +1,6 @@
 # QuerySnout 🐽: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems
 
-This is the code repository for the "QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems" paper presented at the ACM CCS 2022 conference https://dl.acm.org/doi/abs/10.1145/3548606.3560581.
+This is the code repository for the "QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems" paper by Ana-Maria Cretu*, Florimond Houssiau*, Antoine Cully and Yves-Alexandre de Montjoye presented at the ACM CCS 2022 conference https://dl.acm.org/doi/abs/10.1145/3548606.3560581 (*denotes equal contribution).
 
 ## 1 - Environment
 
