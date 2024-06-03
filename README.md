@@ -44,7 +44,17 @@ Note: to run the attack against Diffix, you need to first update the C QBS code 
 
 # How to cite
 
-Ana-Maria Creţu, Florimond Houssiau, Antoine Cully, and Yves-Alexandre de Montjoye. 2022. QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems. _In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS ’22), November 7–11, 2022, Los Angeles, CA, USA. ACM, New York, NY, USA, 24 pages._ https://doi.org/10.1145/3548606.3560581
+If you re-use our code, please cite our paper:
+
+```
+@inproceedings{cretu2022querysnout,
+  title={Querysnout: Automating the discovery of attribute inference attacks against query-based systems},
+  author={Cretu, Ana-Maria and Houssiau, Florimond and Cully, Antoine and de Montjoye, Yves-Alexandre},
+  booktitle={Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={623--637},
+  year={2022}
+}
+```
 
 
 
